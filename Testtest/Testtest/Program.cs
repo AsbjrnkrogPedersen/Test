@@ -11,7 +11,8 @@ namespace Testtest
         static void Main(string[] args)
         {
             Console.WriteLine("Hej med dig");
-            Console.WriteLine("123");
+            
+         
         }
     }
 }
